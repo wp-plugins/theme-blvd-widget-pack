@@ -2,7 +2,7 @@
 Author URI: http://www.jasonbobich.com
 Contributors: themeblvd
 Tags: widgets, Theme Blvd, themeblvd, Jason Bobich
-Stable Tag: 1.0.1
+Stable Tag: 1.0.2
 
 When using a Theme Blvd theme, this plugin adds six widgets to extend some of the functionality already built into the framework.
 
@@ -52,6 +52,11 @@ This widget allows you to select from any menus you've created under *Appearance
 6. Horizontal Menu
 
 == Changelog ==
+
+= 1.0.2 =
+
+* Added compatibility for WPML with Mini Post List and Mini Post Grid widgets.
+* Fixed wording in warning when Theme Blvd framework isn't installed, and added "Dismiss" link.
 
 = 1.0.1 =
 
